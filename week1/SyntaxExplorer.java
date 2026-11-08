@@ -1,4 +1,4 @@
-
+package week1;
 // This is a single-line comment
 // It starts with two forward slashes
 

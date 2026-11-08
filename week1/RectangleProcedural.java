@@ -1,3 +1,5 @@
+package week1;
+
 // Procedural approach: data and methods are separate.
 public class RectangleProcedural {
 
